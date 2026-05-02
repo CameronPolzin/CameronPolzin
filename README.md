@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Cameron 👋
+Computer Science student interested in systems programming and software development.  
+#### Projects
+- findLite : a Unix-style file search utility in C
+- Automated-terrerium-Mister : An ESP32-based automated misting system with manual controls, timed scheduling, and AI-driven humidity optimization in C++
+
 
 <!--
 **CameronPolzin/CameronPolzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
