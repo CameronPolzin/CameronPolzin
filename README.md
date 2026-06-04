@@ -3,8 +3,8 @@ Computer Science student interested in systems programming and software developm
 #### Projects
 - findLite : a Unix-style file search utility in C
 - Automated-terrerium-Mister : An ESP32-based automated misting system with manual controls, timed scheduling, and AI-driven humidity optimization in C++
-
-
+- Course-Enrollment-Managment-System : A full-stack web application developed using Django for managing university course enrollment workflows
+  
 <!--
 **CameronPolzin/CameronPolzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
